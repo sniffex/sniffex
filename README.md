@@ -3,8 +3,6 @@ Hi I'm Panha ![](https://user-images.githubusercontent.com/18350557/176309783-07
 
 📍 Phnom Penh, Cambodia
 📍 Faculty of Engineering, RUPP
-
-* Contact me at [2820.moeung.chantpanha@rupp.edu.kh](mailto:2820.moeung.chantpanha@rupp.edu.kh)
 ### Skills
 
 <p align="left">
