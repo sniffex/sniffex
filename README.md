@@ -7,7 +7,6 @@ I am a software engineer, I love start-up, love being involved in Entrepreneursh
 
 ✨ Skills and Experiences ✨
 
--  SwiftUI, Swift, iOS
 - 🤖 Java, Android
-- 👨‍💻 NodeJS, NextJS
-- 🐳 Docker, AWS
+- 👨‍💻 NodeJS, NextJS, ReactJs
+- LARAVEL
