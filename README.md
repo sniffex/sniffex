@@ -1,12 +1,12 @@
 ### Hi, I'm Panha 👋
 
-## Freelance Web Developer
+## Freelance Software Developer
 
 I love building amazing products.
-I am a software engineer, I love start-up, love being involved in Entrepreneurship
+I am a software engineer, ML/Data Analyst.
 
 ✨ Skills and Experiences ✨
 
-- 🤖 Java, Android
-- 👨‍💻 NodeJS, NextJS, ReactJs
-- LARAVEL
+- Mobile: Native Android, SwiftUI
+- Frontend: NextJS, ReactJs
+- Backend: ExpressJS, Laravel, NodeJS
